@@ -1,0 +1,7 @@
+C:\Users\Максим\source\repos\date\date\bin\Debug\date.exe.config
+C:\Users\Максим\source\repos\date\date\bin\Debug\date.exe
+C:\Users\Максим\source\repos\date\date\bin\Debug\date.pdb
+C:\Users\Максим\source\repos\date\date\obj\Debug\date.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\date\date\obj\Debug\date.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\date\date\obj\Debug\date.exe
+C:\Users\Максим\source\repos\date\date\obj\Debug\date.pdb
